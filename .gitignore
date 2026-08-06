@@ -1,0 +1,9 @@
+# Dependencias
+node_modules/
+
+# Salida de la captura (puede contener cookies/tokens; no subir)
+network-capture.json
+
+# Secretos
+.env
+storageState.json
